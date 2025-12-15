@@ -12,6 +12,7 @@
 - 🌐 All my projects are available at **[shubhammodi.netlify.app](https://shubhammodi.netlify.app/)**
 - 💬 Ask me about **anything**
 - 📫 Reach me at **shubham.modi.cg@gmail.com**
+- 🎨 I collect UI/UX design inspiration from everywhere and refine it to improve my creative styling and build visually appealing websites.
 
 ---
 
