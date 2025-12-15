@@ -21,11 +21,8 @@
 <p align="left">
 
 <a href="https://twitter.com/shubham" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="shubham" height="30" width="40" /></a>
-
 <a href="https://linkedin.com/in/shubham modi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shubham modi" height="30" width="40" /></a>
-
 <a href="https://instagram.com/shubham03.2006" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="shubham03.2006" height="30" width="40" /></a>
-
 <a href="https://www.leetcode.com/shubhamiscoding" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="shubhamiscoding" height="30" width="40" /></a>
 
 </p>
