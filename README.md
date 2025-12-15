@@ -1,5 +1,5 @@
 <h1 align="left">Hi 👋, I'm Shubham Modi</h1>
-> 🚀 Full-Stack Developer | UI/UX enthusiast | Building elegant, accessible web apps
+=> 🚀 Full-Stack Developer | UI/UX enthusiast | Building elegant, accessible web apps
 
 ---
 
