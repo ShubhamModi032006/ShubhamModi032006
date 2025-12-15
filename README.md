@@ -54,15 +54,6 @@
 
 ---
 
-## 📊 GitHub Stats
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=ShubhamModi032006&show_icons=true)
-
-## 🔥 Contribution Streak
-![GitHub Streak](https://streak-stats.demolab.com?user=ShubhamModi032006)
-
-
----
-
 ### ☕ Support Me
 
 <p align="left">
