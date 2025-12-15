@@ -70,7 +70,3 @@
 <p align="left">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shubhammodi032006&layout=compact&theme=tokyonight" />
 </p>
-
-<p align="left">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shubhammodi032006&theme=tokyonight" />
-</p>
