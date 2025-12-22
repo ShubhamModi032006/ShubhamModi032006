@@ -59,22 +59,19 @@
 
 ---
 
+### 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=shubhammodi032006&show_icons=true&theme=tokyonight" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shubhammodi032006&layout=compact&theme=tokyonight" height="170" />
+</p>
+
+---
+
 ### ☕ Support Me
 
 <p align="left">
   <a href="https://www.buymeacoffee.com/letsworktogether">
     <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210"/>
   </a>
-</p>
-
----
-
-### 📊 GitHub Stats
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=shubhammodi032006&show_icons=true&theme=tokyonight" />
-</p>
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shubhammodi032006&layout=compact&theme=tokyonight" />
 </p>
