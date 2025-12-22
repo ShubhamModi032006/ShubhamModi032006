@@ -1,5 +1,6 @@
 <h1 align="left">Hi 👋, I'm Shubham Modi</h1>
-=> 🚀 Full-Stack Developer | UI/UX enthusiast | Building elegant, accessible web apps
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36BCF7&width=800&lines=%F0%9F%9A%80+Full-Stack+Developer;UI%2FUX+enthusiast;Building+elegant%2C+accessible+web+apps)](https://git.io/typing-svg)
 
 ---
 
