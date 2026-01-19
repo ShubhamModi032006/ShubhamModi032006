@@ -24,16 +24,10 @@
 
 ---
 
-### 🤝 Connect With Me
+## Socials🌐 
 
-<p align="left">
+[![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/https://x.com/shubham_modi_cg) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/shubham-modi-cg/) [![LeetCode](https://img.shields.io/badge/LeetCode-%2320232a.svg?style=normal&logo=LeetCode&logoColor=%FFA116)](https://leetcode.com/https://leetcode.com/u/ShubhamModi032006//) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/shubham03.2006/) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@@CG-shubhammodi)
 
-<a href="https://twitter.com/shubham" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="shubham" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/shubham modi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shubham modi" height="30" width="40" /></a>
-<a href="https://instagram.com/shubham03.2006" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="shubham03.2006" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/shubhamiscoding" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="shubhamiscoding" height="30" width="40" /></a>
-
-</p>
 
 ---
 
@@ -68,10 +62,3 @@
 
 ---
 
-### ☕ Support Me
-
-<p align="left">
-  <a href="https://www.buymeacoffee.com/letsworktogether">
-    <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210"/>
-  </a>
-</p>
