@@ -55,7 +55,7 @@
 <tr>
 <td align="center" title="Bootstrap"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="38"/><br/>Bootstrap</td>
 <td align="center" title="Figma"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="38"/><br/>Figma</td>
-<td></td><td></td>
+
 </tr>
 </table>
 </td>
@@ -73,7 +73,7 @@
 </tr>
 <tr>
 <td align="center" title="PostgreSQL"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="38"/><br/>Postgres</td>
-<td></td><td></td><td></td>
+
 </tr>
 </table>
 </td>
@@ -91,7 +91,7 @@
 </tr>
 <tr>
 <td align="center" title="VS Code"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="38"/><br/>VS Code</td>
-<td></td><td></td><td></td>
+
 </tr>
 </table>
 </td>
