@@ -30,56 +30,113 @@
 
 
 ---
-
-## 🛠️ Skills & Technologies
-
-<table>
-<tr>
-<td width="33%" valign="top">
+## 🧠 Tech Stack
 
 ### 🎨 Frontend
 
-<p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="45"/>
-</p>
-
+<table>
+<tr>
+<td align="center" title="HTML5">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40"/><br/>
+  HTML
 </td>
-
-<td width="33%" valign="top">
-
-### ⚙️ Backend & Databases
-
-<p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="45"/>
-</p>
-
+<td align="center" title="CSS3">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40"/><br/>
+  CSS
 </td>
-
-<td width="33%" valign="top">
-
-### 🧰 Tools & Platforms
-
-<p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/auth0/auth0-original.svg" width="45"/>
-</p>
-
+<td align="center" title="JavaScript">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40"/><br/>
+  JS
 </td>
+<td align="center" title="React">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40"/><br/>
+  React
+</td>
+</tr>
+
+<tr>
+<td align="center" title="Bootstrap">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="40"/><br/>
+  Bootstrap
+</td>
+<td align="center" title="Figma">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="40"/><br/>
+  Figma
+</td>
+<td></td>
+<td></td>
 </tr>
 </table>
 
+---
+
+### ⚙️ Backend & Databases
+
+<table>
+<tr>
+<td align="center" title="Node.js">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40"/><br/>
+  Node.js
+</td>
+<td align="center" title="Express.js">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="40"/><br/>
+  Express
+</td>
+<td align="center" title="MongoDB">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="40"/><br/>
+  MongoDB
+</td>
+<td align="center" title="MySQL">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40"/><br/>
+  MySQL
+</td>
+</tr>
+
+<tr>
+<td align="center" title="PostgreSQL">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="40"/><br/>
+  PostgreSQL
+</td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+</table>
+
+---
+
+### 🧰 Tools & Platforms
+
+<table>
+<tr>
+<td align="center" title="Git">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40"/><br/>
+  Git
+</td>
+<td align="center" title="GitHub">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40"/><br/>
+  GitHub
+</td>
+<td align="center" title="Docker">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40"/><br/>
+  Docker
+</td>
+<td align="center" title="Auth0">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/auth0/auth0-original.svg" width="40"/><br/>
+  Auth0
+</td>
+</tr>
+
+<tr>
+<td align="center" title="VS Code">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40"/><br/>
+  VS Code
+</td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+</table>
 
 ---
 
