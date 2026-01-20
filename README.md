@@ -37,7 +37,7 @@
 ---
 ## 🧠 Tech Stack
 
-<table width="100%">
+<table width="100%" align="center">
   <!-- ROW 1 -->
   <tr>
     <!-- Frontend -->
