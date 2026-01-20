@@ -58,7 +58,7 @@
       </table>
     </td>
 
-    <!-- Backend -->
+  <!-- Backend -->
   <td width="50%" valign="top" align="center">
       <h3>⚙️ Backend & Core</h3>
       <table align="center" cellpadding="10">
