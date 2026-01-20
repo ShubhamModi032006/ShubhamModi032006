@@ -37,61 +37,60 @@
 ---
 ## 🧠 Tech Stack
 
-<table width="100%" align="center">
-  <!-- ROW 1 -->
+<table width="100%" align="center" cellspacing="0" cellpadding="12">
+  <!-- ================= ROW 1 ================= -->
   <tr>
     <!-- Frontend -->
-    <td width="50%" valign="top">
-      <h3 align="center">🎨 Frontend & Design</h3>
-      <table align="center">
+    <td width="50%" valign="top" align="center">
+      <h3>🎨 Frontend & Design</h3>
+      <table align="center" cellpadding="10">
         <tr>
-          <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="38"/><br/>Next.js</td>
-          <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="38"/><br/>React</td>
-          <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" width="38"/><br/>Tailwind</td>
-          <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="38"/><br/>Figma</td>
+          <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="42"/><br/><sub><b>Next.js</b></sub></td>
+          <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="42"/><br/><sub><b>React</b></sub></td>
+          <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" width="42"/><br/><sub><b>Tailwind</b></sub></td>
+          <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="42"/><br/><sub><b>Figma</b></sub></td>
         </tr>
         <tr>
-          <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="38"/><br/>JS</td>
-          <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="38"/><br/>HTML</td>
-          <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="38"/><br/>CSS</td>
+          <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="42"/><br/><sub><b>JavaScript</b></sub></td>
+          <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="42"/><br/><sub><b>HTML</b></sub></td>
+          <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="42"/><br/><sub><b>CSS</b></sub></td>
         </tr>
       </table>
     </td>
 
-
-<!-- Backend -->
-<td width="50%" valign="top">
-  <h3 align="center">⚙️ Backend & Core</h3>
-  <table align="center">
-  <tr>
-  <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="38"/><br/>C++</td>
-  <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="38"/><br/>Python</td>
-   <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="38"/><br/>Node</td>
-   <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="38"/><br/>Express</td>
-  </tr>
-   <tr>
-   <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="38"/><br/>Mongo</td>
-   <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="38"/><br/>MySQL</td>
-  <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="38"/><br/>Postgres</td>
-   </tr>
-  </table>
-  </td>
-  </tr>
-
-  <!-- ROW 2 -->
-  <tr>
-    <td colspan="2" align="center">
-      <h3 align="center">🧰 Tools & Cloud</h3>
-      <table align="center">
+    <!-- Backend -->
+  <td width="50%" valign="top" align="center">
+      <h3>⚙️ Backend & Core</h3>
+      <table align="center" cellpadding="10">
         <tr>
-          <td align="center"><img src="https://assets.vercel.com/image/upload/v1588805858/repositories/vercel/logo.png" width="38"/><br/>Vercel</td>
-          <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="38"/><br/>Git</td>
-          <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="38"/><br/>GitHub</td>
-          <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="38"/><br/>Docker</td>
+          <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="42"/><br/><sub><b>C++</b></sub></td>
+          <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="42"/><br/><sub><b>Python</b></sub></td>
+          <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="42"/><br/><sub><b>Node.js</b></sub></td>
+          <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="42"/><br/><sub><b>Express</b></sub></td>
         </tr>
         <tr>
-          <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="38"/><br/>VS Code</td>
-          <td align="center"><img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="38"/><br/>Postman</td>
+          <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="42"/><br/><sub><b>MongoDB</b></sub></td>
+          <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="42"/><br/><sub><b>MySQL</b></sub></td>
+          <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="42"/><br/><sub><b>PostgreSQL</b></sub></td>
+        </tr>
+      </table>
+    </td>
+  </tr>
+
+  <!-- ================= ROW 2 ================= -->
+  <tr>
+    <td colspan="2" align="center">
+      <h3>🧰 Tools & Cloud</h3>
+      <table align="center" cellpadding="10">
+        <tr>
+          <td align="center"><img src="https://assets.vercel.com/image/upload/v1588805858/repositories/vercel/logo.png" width="42"/><br/><sub><b>Vercel</b></sub></td>
+          <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="42"/><br/><sub><b>Git</b></sub></td>
+          <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="42"/><br/><sub><b>GitHub</b></sub></td>
+          <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="42"/><br/><sub><b>Docker</b></sub></td>
+        </tr>
+        <tr>
+          <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="42"/><br/><sub><b>VS Code</b></sub></td>
+          <td align="center"><img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="42"/><br/><sub><b>Postman</b></sub></td>
         </tr>
       </table>
     </td>
