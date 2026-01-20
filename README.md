@@ -42,7 +42,7 @@
   <tr>
     <!-- Frontend -->
     <td width="50%" valign="top" align="center">
-      <h3>🎨 Frontend & Design</h3>
+      <h3>Frontend & Design</h3>
       <table align="center" cellpadding="10">
         <tr>
           <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="42"/><br/><sub><b>Next.js</b></sub></td>
@@ -60,7 +60,7 @@
 
   <!-- Backend -->
   <td width="50%" valign="top" align="center">
-      <h3>⚙️ Backend & Core</h3>
+      <h3>Backend & Core</h3>
       <table align="center" cellpadding="10">
         <tr>
           <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="42"/><br/><sub><b>C++</b></sub></td>
@@ -80,7 +80,7 @@
   <!-- ================= ROW 2 ================= -->
   <tr>
     <td colspan="2" align="center">
-      <h3>🧰 Tools & Cloud</h3>
+      <h3>Tools & Cloud</h3>
       <table align="center" cellpadding="10">
         <tr>
           <td align="center"><img src="https://assets.vercel.com/image/upload/v1588805858/repositories/vercel/logo.png" width="42"/><br/><sub><b>Vercel</b></sub></td>
