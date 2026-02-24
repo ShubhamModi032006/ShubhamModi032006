@@ -64,14 +64,11 @@
       <table align="center" cellpadding="10">
         <tr>
           <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="42"/><br/><sub><b>C++</b></sub></td>
-          <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="42"/><br/><sub><b>Python</b></sub></td>
           <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="42"/><br/><sub><b>Node.js</b></sub></td>
           <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="42"/><br/><sub><b>Express</b></sub></td>
         </tr>
         <tr>
           <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="42"/><br/><sub><b>MongoDB</b></sub></td>
-          <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="42"/><br/><sub><b>MySQL</b></sub></td>
-          <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="42"/><br/><sub><b>PostgreSQL</b></sub></td>
         </tr>
       </table>
     </td>
@@ -86,7 +83,6 @@
           <td align="center"><img src="https://assets.vercel.com/image/upload/v1588805858/repositories/vercel/logo.png" width="42"/><br/><sub><b>Vercel</b></sub></td>
           <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="42"/><br/><sub><b>Git</b></sub></td>
           <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="42"/><br/><sub><b>GitHub</b></sub></td>
-          <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="42"/><br/><sub><b>Docker</b></sub></td>
         </tr>
         <tr>
           <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="42"/><br/><sub><b>VS Code</b></sub></td>
