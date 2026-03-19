@@ -10,7 +10,7 @@
 <tr>
 <td width="60%">
 
-- 🌐 **Portfolio:** [shubhammodi.netlify.app](https://shubhammodi.netlify.app/)
+- 🌐 **Portfolio:** [shubhamModi]([https://shubhammodi.netlify.app/](https://shubham-modi.vercel.app/about))
 - 💬 **Ask me about:** React, Next.js, UI/UX
 - 📫 **Reach me:** shubham.modi.cg@gmail.com
 - 🎨 Passionate about crafting clean, elegant & accessible interfaces
