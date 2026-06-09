@@ -61,7 +61,7 @@
 ### Development
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=js,cpp,java,react,nextjs,html,css,tailwind,nodejs,express,mongodb,mysql" />
+  <img src="https://skillicons.dev/icons?i=js,cpp,react,nextjs,html,css,tailwind,nodejs,express,mongodb,mysql,postgres" />
 </p>
 
 ### Tools & Design
