@@ -88,7 +88,6 @@
   <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,vercel,figma" />
 </p>
 
-
 ---
 
 ## 🚀 Featured Projects
@@ -161,3 +160,4 @@ Role-based finance and event budget management platform.
 </td>
 </tr>
 </table>
+
