@@ -1,7 +1,10 @@
-<h1 align="left">Hi 👋, I'm Shubham Modi</h1>
+<div>
+  
+<p align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:000000,50:2E1065,100:7C3AED&text=Shubham%20Modi&fontSize=70&fontColor=ffffff&fontAlignY=40&desc=Full-Stack%20Developer%20|%20UI/UX%20Enthusiast&descAlignY=65&descSize=24" width="100%"/>
+</p>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=800&lines=%F0%9F%9A%80+Full-Stack+Developer;UI%2FUX+Enthusiast;Building+Elegant+and+Accessible+Web+Apps&colors=FF5733;33FF57;3357FF)](https://git.io/typing-svg)
-
+</div>
 ---
 
 ### 👨‍💻 About Me
@@ -11,88 +14,150 @@
 <td width="60%">
 
 - 🌐 **Portfolio:** [shubhamModi](https://shubham-modi.vercel.app/about)
-- 💬 **Ask me about:** React, Next.js, UI/UX
+- 🎓 Computer Science Student & Full-Stack Developer
+- 💻 Building modern web applications with React, Node.js & MongoDB
+- 🚀 Interested in scalable web applications and developer tools
 - 📫 **Reach me:** shubham.modi.cg@gmail.com
 - 🎨 Passionate about crafting clean, elegant & accessible interfaces
 
 </td>
 <td width="40%" align="center">
 
-<img src="https://cdn.dribbble.com/users/107759/screenshots/3742849/media/bde44cea22b34aaed2deeae46c32d5c8.gif" width="220" />
+<img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="220" />
 
 </td>
 </tr>
 </table>
 
+
 ---
 
 ## 🌐 Socials
+<p align="center">
+  <a href="https://x.com/shubham_modi_cg">
+    <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white"/>
+  </a>
 
-[![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/shubham_modi_cg)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shubham-modi-cg/)
-[![LeetCode](https://img.shields.io/badge/LeetCode-%2320232a.svg?logo=LeetCode&logoColor=%FFA116)](https://leetcode.com/u/ShubhamModi032006/)
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/shubham03.2006/)
-[![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@CG-shubhammodi)
+  <a href="https://www.linkedin.com/in/shubham-modi-cg/">
+    <img src="https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+
+  <a href="https://leetcode.com/u/ShubhamModi032006/">
+    <img src="https://img.shields.io/badge/LEETCODE-121212?style=for-the-badge&logo=leetcode&logoColor=FFA116"/>
+  </a>
+
+  <a href="https://www.instagram.com/shubham03.2006/">
+    <img src="https://img.shields.io/badge/INSTAGRAM-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+  </a>
+
+  <a href="https://youtube.com/@CG-shubhammodi">
+    <img src="https://img.shields.io/badge/YOUTUBE-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/>
+  </a>
+</p>
+---
+
+## 🛠️ Tech Stack
+
+### 💻 Languages
+
+<p>
+  <img src="https://skillicons.dev/icons?i=js,cpp,java" />
+</p>
+
+### 🎨 Frontend
+
+<p>
+  <img src="https://skillicons.dev/icons?i=react,nextjs,html,css,tailwind" />
+</p>
+
+### ⚙️ Backend
+
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,express" />
+</p>
+
+### 🗄️ Database
+
+<p>
+  <img src="https://skillicons.dev/icons?i=mongodb,mysql" />
+</p>
+
+### ☁️ Tools & Cloud
+
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,vercel,figma" />
+</p>
+
 
 ---
-## 🧠 Tech Stack
 
-<table width="100%" align="center" cellspacing="0" cellpadding="12">
-  <!-- ================= ROW 1 ================= -->
-  <tr>
-    <!-- Frontend -->
-    <td width="50%" valign="top" align="center">
-      <h3>Frontend & Design</h3>
-      <table align="center" cellpadding="10">
-        <tr>
-          <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="42"/><br/><sub><b>Next.js</b></sub></td>
-          <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="42"/><br/><sub><b>React</b></sub></td>
-          <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" width="42"/><br/><sub><b>Tailwind</b></sub></td>
-          <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="42"/><br/><sub><b>Figma</b></sub></td>
-        </tr>
-        <tr>
-          <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="42"/><br/><sub><b>JavaScript</b></sub></td>
-          <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="42"/><br/><sub><b>HTML</b></sub></td>
-          <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="42"/><br/><sub><b>CSS</b></sub></td>
-        </tr>
-      </table>
-    </td>
+## 🚀 Featured Projects
 
-  <!-- Backend -->
-  <td width="50%" valign="top" align="center">
-      <h3>Backend & Core</h3>
-      <table align="center" cellpadding="10">
-        <tr>
-          <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="42"/><br/><sub><b>C++</b></sub></td>
-          <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="42"/><br/><sub><b>Node.js</b></sub></td>
-          <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="42"/><br/><sub><b>Express</b></sub></td>
-        </tr>
-        <tr>
-          <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="42"/><br/><sub><b>MongoDB</b></sub></td>
-        </tr>
-      </table>
-    </td>
-  </tr>
+<table>
+<tr>
+<td width="33%">
 
-  <!-- ================= ROW 2 ================= -->
-  <tr>
-    <td colspan="2" align="center">
-      <h3>Tools & Cloud</h3>
-      <table align="center" cellpadding="10">
-        <tr>
-          <td align="center"><img src="https://assets.vercel.com/image/upload/v1588805858/repositories/vercel/logo.png" width="42"/><br/><sub><b>Vercel</b></sub></td>
-          <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="42"/><br/><sub><b>Git</b></sub></td>
-          <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="42"/><br/><sub><b>GitHub</b></sub></td>
-        </tr>
-        <tr>
-          <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="42"/><br/><sub><b>VS Code</b></sub></td>
-          <td align="center"><img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="42"/><br/><sub><b>Postman</b></sub></td>
-        </tr>
-      </table>
-    </td>
-  </tr>
+<h3 align="center">📁 File Store</h3>
+
+<p align="center">
+Cloud storage platform with secure file sharing and folder management.
+</p>
+
+<p align="center">
+🔐 JWT Auth <br>
+📂 Folder System <br>
+🔗 Shareable Links <br>
+🗑️ Trash Recovery
+</p>
+
+<p align="center">
+<a href="https://github.com/ShubhamModi032006/file-store-locally">GitHub</a> •
+<a href="https://file-store-locally.vercel.app">Live Demo</a>
+</p>
+
+</td>
+
+<td width="33%">
+
+<h3 align="center">⌨️ GeminiType</h3>
+
+<p align="center">
+AI-powered typing platform using Google's Gemini AI.
+</p>
+
+<p align="center">
+🤖 Gemini AI <br>
+📊 Analytics <br>
+📈 Progress Tracking <br>
+⚡ Real-time Stats
+</p>
+
+<p align="center">
+<a href="https://github.com/ShubhamModi032006/Gemini-type">GitHub</a> •
+<a href="https://gemini-type.vercel.app">Live Demo</a>
+</p>
+
+</td>
+
+<td width="33%">
+
+<h3 align="center">💰 FinCtrl</h3>
+
+<p align="center">
+Role-based finance and event budget management platform.
+</p>
+
+<p align="center">
+👥 RBAC <br>
+💸 Expense Tracking <br>
+📅 Event Budgets <br>
+🔐 JWT Security
+</p>
+
+<p align="center">
+<a href="https://github.com/ShubhamModi032006/Fin_Ctrl">GitHub</a>
+</p>
+
+</td>
+</tr>
 </table>
-
-
----
-
