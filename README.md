@@ -18,6 +18,8 @@
 - 💻 Building modern web applications with React, Node.js & MongoDB
 - 🚀 Interested in scalable web applications and developer tools
 - 📫 **Reach me:** shubham.modi.cg@gmail.com
+- - 👀 Profile Visitors:
+  ![](https://komarev.com/ghpvc/?username=ShubhamModi032006&style=flat-square&color=7C3AED)
 - 🎨 Passionate about crafting clean, elegant & accessible interfaces
 
 </td>
