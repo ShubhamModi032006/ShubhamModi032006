@@ -3,7 +3,8 @@
 </p>
 
 <br>
-## 🧑‍💻 About Me
+
+## > About Me
 
 ```text
 visitor@github:~$ cat ./about_me.txt
