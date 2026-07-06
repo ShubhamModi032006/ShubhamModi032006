@@ -21,7 +21,7 @@ Open To   : Internships • Collaboration • Open Source
 ```
 ---
 
-## 🌐 Socials
+## > Socials
 <p align="center">
   <a href="https://x.com/shubham_modi_cg">
     <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white"/>
@@ -45,9 +45,9 @@ Open To   : Internships • Collaboration • Open Source
 </p>
 ---
 
-## 🛠️ Tech Stack
+## > Tech Stack
 
-### Development
+###  >> Development
 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=js,cpp,react,nextjs,html,css,tailwind,nodejs,express,mongodb,mysql,postgres" />
@@ -61,13 +61,13 @@ Open To   : Internships • Collaboration • Open Source
 
 ---
 
-## 🚀 Featured Projects
+## > Featured Projects
 
 <table>
 <tr>
 <td width="33%">
 
-<h3 align="center">📁 File Store</h3>
+<h3 align="center"> -> File Store</h3>
 
 <p align="center">
 Cloud storage platform with secure file sharing and folder management.
@@ -89,7 +89,7 @@ Cloud storage platform with secure file sharing and folder management.
 
 <td width="33%">
 
-<h3 align="center">⌨️ GeminiType</h3>
+<h3 align="center"> -> GeminiType</h3>
 
 <p align="center">
 AI-powered typing platform using Google's Gemini AI.
