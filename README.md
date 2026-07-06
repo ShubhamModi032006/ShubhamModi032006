@@ -3,29 +3,20 @@
 </p>
 
 <br>
+
 ### 👨‍💻 About Me
 
-<table>
-<tr>
-<td width="60%">
+visitor@github:~$ cat ./about_me.txt
 
-- 🌐 **Portfolio:** [shubhamModi](https://shubham-modi.vercel.app/about)
-- 🎓 Computer Science Student & Full-Stack Developer
-- 💻 Building modern web applications with React, Node.js & MongoDB
-- 🚀 Interested in scalable web applications and developer tools
-- 📫 **Reach me:** shubham.modi.cg@gmail.com
-- 👀 Profile Visitors:
-  ![](https://komarev.com/ghpvc/?username=ShubhamModi032006&style=flat-square&color=7C3AED)
-- 🎨 Passionate about crafting clean, elegant & accessible interfaces
-
-</td>
-<td width="40%" align="center">
-
-<img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="300" />
-
-</td>
-</tr>
-</table>
+Name     : Shubham Modi
+Handle   : @ShubhamModi032006
+Role     : Computer Science Student
+Focus    : Full-Stack Development • Backend • DSA
+Learning : Spring Boot • React • Node.js • MongoDB
+Portfolio: https://your-portfolio.com
+Email    : shubham.modi.cg@gmail.com
+Status   : Building projects every day 🚀
+Open To  : Internships • Collaboration • Open Source
 
 
 ---
