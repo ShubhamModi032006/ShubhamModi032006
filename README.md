@@ -1,7 +1,8 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=40&duration=4000&pause=1000&color=FFFFFF&center=true&vCenter=true&width=900&height=80&lines=Shubham+Modi" />
+  <img src="https://raw.githubusercontent.com/ShubhamModi032006/ShubhamModi032006/main/banner.png" width="100%" alt="Shubham Modi Banner">
 </p>
 
+<br>
 ### 👨‍💻 About Me
 
 <table>
