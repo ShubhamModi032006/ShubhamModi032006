@@ -3,22 +3,21 @@
 </p>
 
 <br>
+## 🧑‍💻 About Me
 
-### 👨‍💻 About Me
-
+```text
 visitor@github:~$ cat ./about_me.txt
 
-Name     : Shubham Modi
-Handle   : @ShubhamModi032006
-Role     : Computer Science Student
-Focus    : Full-Stack Development • Backend • DSA
-Learning : Spring Boot • React • Node.js • MongoDB
-Portfolio: https://your-portfolio.com
-Email    : shubham.modi.cg@gmail.com
-Status   : Building projects every day 🚀
-Open To  : Internships • Collaboration • Open Source
-
-
+Name      : Shubham Modi
+Handle    : @ShubhamModi032006
+Role      : Computer Science Student
+Focus     : Full-Stack Development • Backend • DSA
+Learning  : Spring Boot • React • Node.js • MongoDB
+Portfolio : https://your-portfolio.com
+Email     : shubham.modi.cg@gmail.com
+Status    : Building projects every day 🚀
+Open To   : Internships • Collaboration • Open Source
+```
 ---
 
 ## 🌐 Socials
