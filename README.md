@@ -111,7 +111,7 @@ AI-powered typing platform using Google's Gemini AI.
 
 <td width="33%">
 
-<h3 align="center">💰 FinCtrl</h3>
+<h3 align="center"> -> FinCtrl</h3>
 
 <p align="center">
 Role-based finance and event budget management platform.
